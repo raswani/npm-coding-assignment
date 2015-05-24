@@ -1,1 +1,2 @@
-# npm-coding-assignment
+Command: python summary.py input.txt
+
