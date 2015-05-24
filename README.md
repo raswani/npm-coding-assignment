@@ -8,7 +8,7 @@ This program generates a summarized report on url hit count, sorted from highest
 
 Command Line Syntax
 ===================
-python summary.py <input file name>
+python summary.py $input file name
 
 In this program, the filename is named as input.txt. 
 
